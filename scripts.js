@@ -8,7 +8,7 @@ const chichofunct = ()=>{
 		touma = 0;
 	}
 }
-
 chichofunct()
-
 setInterval(()=>chichofunct(),3000);
+
+// Me gusta tu cuerpo. Tus manos, tus pechos y tu colita.
