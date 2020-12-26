@@ -1,19 +1,19 @@
-body {background-color: #ffb347;}
-p {
- text-align: justify;
-max-width:45%;
-margin: auto;
-font-family: Arial, Helvetica, sans-serif;
+#socials {
+	height: 84px;
+	/*background: url(images/bar-bg.jpg) repeat-x;*/
 }
-h3 {
- text-align: justify;
-max-width:45%;
-margin: auto;
-font-family: Arial, Helvetica, sans-serif;
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
 }
-h4 {
- text-align: right;
-max-width:45%;
-margin: auto;
-font-family: Arial, Helvetica, sans-serif;
-}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
+
