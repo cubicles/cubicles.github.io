@@ -1,3 +1,7 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 #socials {
 	height: 84px;
 	/*background: url(images/bar-bg.jpg) repeat-x;*/
@@ -11,9 +15,23 @@
 ul#horizontal-list {
 	min-width: 696px;
 	list-style: none;
-	padding-top: 20px;
+	/*padding-top: 20px;*/
 	}
 	ul#horizontal-list li {
 		display: inline;
+		padding-left: 10px;
+		padding-right: 10px;
 	}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
