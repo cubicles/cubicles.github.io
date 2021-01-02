@@ -9,19 +9,19 @@ body{
 
 #container{
 	width: 100%;
+	padding: 0px auto;
 }
 
 ul#horizontal-list {
-	width: 100%;
+	width: 90%;
 	list-style: none;
-	padding: 5px 0px 5px 0px;
-	padding-inline-start:0px;
+	padding: 5px 12px 5px 12px;
 	border-radius: 4px;
 	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     top: -4px;
     border: 1px solid #cccccc;
     background-color: white;
-
+    margin: 10px 10px 12px 12px;
 	/*padding-top: 20px;*/
 	}
 	ul#horizontal-list li {
@@ -91,6 +91,9 @@ ul#horizontal-list {
     top: -4px;
     border: 1px solid #cccccc;
     background-color: white;
+}
+#projectlist{
+	padding-inline-start:10px;
 }
 #eduexp{
 	padding: 20px 20px;
