@@ -10,5 +10,4 @@ const chichofunct = ()=>{
 }
 
 chichofunct()
-
 setInterval(()=>chichofunct(),3000);
