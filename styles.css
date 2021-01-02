@@ -9,26 +9,35 @@ body{
 
 #container{
 	width: 100%;
-	padding: 0px auto;
+	display: flex;
+	height: 100%;
 }
 
 ul#horizontal-list {
-	width: 90%;
+	display: table;
+	width: 100%;
 	list-style: none;
-	padding: 5px 12px 5px 12px;
+	/*padding: 5px 12px 5px 12px;*/
+	padding: 7px 5px 7px 5px;
 	border-radius: 4px;
 	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     top: -4px;
     border: 1px solid #cccccc;
     background-color: white;
-    margin: 10px 10px 12px 12px;
+    margin: 8px 0px 8px 0px;
+    box-sizing: border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
 	/*padding-top: 20px;*/
 	}
 	ul#horizontal-list li {
-		width: 50px;
-		height: 50px;
-		display: inline;
+		display: table-cell;
+		margin: 0px auto 0px auto;
 	}
+
+#horizontal-list li:not(:first-child):before {
+    content: " | ";
+}
 
 .column {
   float: left;
@@ -44,9 +53,10 @@ ul#horizontal-list {
 
 #header{
 	margin: auto;
-  	width: 80%;
-  	border: 3px solid green;
+  	width: 65%;
+  	border: 3px solid white;
   	padding: 10px;
+  	max-width: 960px;
 }
 
 #header h1 {
@@ -58,18 +68,20 @@ ul#horizontal-list {
 #socials {
 	height: 84px;
 	margin: auto;
-	width: 80%;
-  	border: 3px solid green;
-  	padding: 10px;
+	width: 65%;
+  	border: 3px solid white;
+  	padding: 10px 22px 10px 22px;
+  	max-width: 960px;
 	/*background: url(images/bar-bg.jpg) repeat-x;*/
 }
 
 .row{
 	margin: auto;
-  	width: 80%;
-  	border: 3px solid green;
+  	width: 65%;
+  	border: 3px solid white;
   	padding: 10px;
   	background-color: white;
+  	max-width: 960px;
 }
 .blocks{
 	background-color: white;
@@ -115,12 +127,16 @@ ul#horizontal-list {
 }
 #footer{
 	margin: auto;
-  	width: 80%;
-  	border: 3px solid green;
+  	width: 65%;
+  	border: 3px solid white;
   	padding: 10px;
+  	max-width: 960px;
 }
 
-
+li a img{
+	height: 18px;
+	margin: 0px 5px 0px 5px;
+}
 
 
 
