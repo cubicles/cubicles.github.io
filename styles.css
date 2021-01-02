@@ -44,7 +44,7 @@ ul#horizontal-list {
 
 #header{
 	margin: auto;
-  	width: 70%;
+  	width: 80%;
   	border: 3px solid green;
   	padding: 10px;
 }
@@ -58,7 +58,7 @@ ul#horizontal-list {
 #socials {
 	height: 84px;
 	margin: auto;
-	width: 70%;
+	width: 80%;
   	border: 3px solid green;
   	padding: 10px;
 	/*background: url(images/bar-bg.jpg) repeat-x;*/
@@ -66,7 +66,7 @@ ul#horizontal-list {
 
 .row{
 	margin: auto;
-  	width: 70%;
+  	width: 80%;
   	border: 3px solid green;
   	padding: 10px;
   	background-color: white;
@@ -112,7 +112,7 @@ ul#horizontal-list {
 }
 #footer{
 	margin: auto;
-  	width: 70%;
+  	width: 80%;
   	border: 3px solid green;
   	padding: 10px;
 }
