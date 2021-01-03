@@ -4,6 +4,7 @@
 
 body{
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #fff8f9;
 }
 
 
@@ -54,7 +55,7 @@ ul#horizontal-list {
 #header{
 	margin: auto;
   	width: 65%;
-  	border: 3px solid white;
+  	border: 3px solid green;
   	padding: 10px;
   	max-width: 960px;
 }
@@ -69,7 +70,7 @@ ul#horizontal-list {
 	height: 84px;
 	margin: auto;
 	width: 65%;
-  	border: 3px solid white;
+  	border: 3px solid green;
   	padding: 10px 22px 10px 22px;
   	max-width: 960px;
 	/*background: url(images/bar-bg.jpg) repeat-x;*/
@@ -78,10 +79,11 @@ ul#horizontal-list {
 .row{
 	margin: auto;
   	width: 65%;
-  	border: 3px solid white;
+  	border: 0px solid green;
   	padding: 10px;
-  	background-color: white;
+  	background-color: 	#fff8f9;
   	max-width: 960px;
+
 }
 .blocks{
 	background-color: white;
@@ -93,7 +95,7 @@ ul#horizontal-list {
 	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     top: -4px;
     border: 1px solid #cccccc;
-    background-color: white;
+    background-color: 	#fff9de;
 }
 #projects{
 	padding: 20px 20px;
@@ -102,7 +104,7 @@ ul#horizontal-list {
 	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     top: -4px;
     border: 1px solid #cccccc;
-    background-color: white;
+    background-color: #fff9de;
 }
 #projectlist{
 	padding-inline-start:10px;
@@ -114,7 +116,7 @@ ul#horizontal-list {
 	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     top: -4px;
     border: 1px solid #cccccc;
-    background-color: white;
+    background-color: #fff9de;
 }
 #interests{
 	padding: 20px 20px;
@@ -123,12 +125,12 @@ ul#horizontal-list {
 	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     top: -4px;
     border: 1px solid #cccccc;
-    background-color: white;
+    background-color: #fff9de;
 }
 #footer{
 	margin: auto;
   	width: 65%;
-  	border: 3px solid white;
+  	border: 3px solid green;
   	padding: 10px;
   	max-width: 960px;
 }
