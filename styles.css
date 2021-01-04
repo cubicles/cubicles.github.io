@@ -3,9 +3,10 @@
 }
 
 body{
-  font-family: monaco;
+font-family: Helvetica, sans-serif;
   background-color: #fff8f9;
   font-weight: 100;
+  line-height: 1.5;
 }
 
 
