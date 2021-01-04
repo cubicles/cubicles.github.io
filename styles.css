@@ -56,8 +56,8 @@ ul#horizontal-list {
 #header{
 	margin: auto;
   	width: 65%;
-  	border: 3px solid green;
-  	padding: 10px;
+  	border: 0px solid green;
+  	padding: 22px 22px 10px 22px;
   	max-width: 960px;
 }
 
@@ -68,11 +68,11 @@ ul#horizontal-list {
 }
 
 #socials {
-	height: 84px;
+	height: 50px;
 	margin: auto;
 	width: 65%;
   	border: 0px solid green;
-  	padding: 10px 22px 10px 22px;
+  	padding: 0px 22px 0px 22px;
   	max-width: 960px;
 	/*background: url(images/bar-bg.jpg) repeat-x;*/
 }
@@ -129,10 +129,10 @@ ul#horizontal-list {
     background-color: #fff9de;
 }
 #footer{
+	padding: 0px 22px 22px  22px;
 	margin: auto;
   	width: 65%;
-  	border: 3px solid green;
-  	padding: 10px;
+  	border: 0px solid green;
   	max-width: 960px;
 }
 
