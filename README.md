@@ -6,4 +6,4 @@ This is a website. This is my website. I often link the stuff im working on atm 
 
 Feel free to click on it
 
-[a link](https://cubicles.github.io)
+[cubicles.github.io](https://cubicles.github.io)
