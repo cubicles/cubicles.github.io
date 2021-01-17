@@ -8,8 +8,31 @@ h1{
     padding: 20px;
     font-family: Helvetica, sans-serif;
 }
-asdpre{
-  background-color: black;
-  color:white;
-  font-size: 20px;
+}
+pre{
+	white-space: pre;
+	display: block;
+}
+#snippet pre code {
+    display: block;
+    height: 20em;
+    padding: 1em;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.hljs {
+    display: block;
+    overflow-x: auto;
+    padding: .5em;
+    background: #eaeef3;
+    color: #00193a;
+}
+#snippet {
+    float: left;
+    width: 30em;
+    padding: 1em;
+    background: #500;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #400 #700 #700 #400;
 }
