@@ -2,7 +2,7 @@ body{
 	 background-color: #fff8f9;
 }
 h1{
-    margin:auto;
+    margin:50px 0px 0px 0px;
     vertical-align:middle;
     text-align: center;
     padding: 20px;
@@ -10,24 +10,28 @@ h1{
 }
 #container{
 	width: 80%; 
-	display: flex;
 	justify-content: center;
 	margin: 0 auto;
 }
 #snippet{
 	font-size: 15px;
-	width: 50%;
-	max-width: 500px;
+	width: 100%;
+	max-width: 700px;
+	margin: 0 auto;
 }
 pre{
 	margin: 0 auto;
 }
 #description {
 	border-style: solid;
-	border-width: 1px;
+	border-width: 0px;
 	border-color: blue;
-	width: 50%;
-	padding: 20px 0px 20x 0px;
-	max-width: 500px;
+	width: 100%;
+	max-width: 700px;
+	margin: 0 auto;
+	font-family: Helvetica, sans-serif;
+}
+p{
+	margin: 0px 15px 20px 15px;
 }
   
