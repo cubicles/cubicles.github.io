@@ -1,0 +1,37 @@
+body{
+	 background-color: #fff8f9;
+}
+h1{
+    margin:25px 0px 0px 0px;
+    vertical-align:middle;
+    text-align: center;
+    padding: 20px;
+    font-family: Helvetica, sans-serif;
+}
+#container{
+	width: 100%; 
+	justify-content: center;
+	margin: 0 auto;
+}
+#snippet{
+	font-size: 15px;
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+}
+pre{
+	margin: 0 auto;
+}
+#description {
+	border-style: solid;
+	border-width: 0px;
+	border-color: blue;
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	font-family: Helvetica, sans-serif;
+}
+p{
+	margin: 0px 15px 20px 15px;
+}
+  
