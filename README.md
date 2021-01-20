@@ -8,6 +8,6 @@ Feel free to click on it
 
 For pressing ceremonial reasons, i migrated the webpage to Heroku. You can access it here: [cubicles.herokuapp.com](https://cubicles.herokuapp.com)
 
-You can always access the legacy website by cliking [cubicles.github.io](here). There is not much stuff there but i keep it for sentimental values
+You can always access the legacy website by cliking [here](cubicles.github.io). There is not much stuff there but i keep it for sentimental values
 
 
