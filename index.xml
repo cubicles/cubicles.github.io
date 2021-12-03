@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cubicles blog</title>
+    <link>http://cubicles.github.io/</link>
+    <description>Recent content on Cubicles blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 20:10:28 -0500</lastBuildDate><atom:link href="http://cubicles.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_friend</title>
+      <link>http://cubicles.github.io/posts/hello_friend/</link>
+      <pubDate>Thu, 02 Dec 2021 20:10:28 -0500</pubDate>
+      
+      <guid>http://cubicles.github.io/posts/hello_friend/</guid>
+      <description>Hello, this is a post. This is my first post. It would probably be archived at some point in time, but for now, it&amp;rsquo;s here and alive.</description>
+    </item>
+    
+  </channel>
+</rss>
