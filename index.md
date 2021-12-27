@@ -1,5 +1,5 @@
 
-# cubicles webpage
+# cubicles webpage ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 Welcome to my personal webpage! I'm Gabriel, CS Graduate student @[UTEC](https://posgrado.utec.edu.pe/). currently working as a Data Engineer @[bluetab](https://www.bluetab.net/en/). I am mainly interested in Applied Data Science, Social Engineering and Graph Mining.
 
