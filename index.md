@@ -10,3 +10,7 @@ Welcome to my personal webpage! I'm Gabriel, CS Graduate student @[UTEC](https:/
 [\[Links\]](https://github.com/cubicles)
 
 This is an emoji :blush:
+
+This is an outer link:
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+📝 
