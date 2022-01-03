@@ -6,21 +6,21 @@
 [\[Portfolio\]](portfolio/index.md)
 [\[Github\]](https://github.com/cubicles)
 [\[Resume\]](/resume.pdf)
-[\[Links\]](/links.md)
+<!-- [\[Links\]](/links.md) -->
 
-Welcome to my personal webpage! I'm Gabriel, CS grad student <a href="https://posgrado.utec.edu.pe/" target="_blank">@UTEC</a>. currently working as a Data Engineer @[bluetab](https://www.bluetab.net/en/). I am mainly interested in Applied Data Science, Social Engineering and Graph Mining. 
+Welcome to my personal webpage! I'm Gabriel, CS grad student <a href="https://posgrado.utec.edu.pe/" target="_blank">@UTEC</a>. currently working as a Data Engineer @[bluetab](https://www.bluetab.net/en/). I am mainly interested in Data Science, Data Engineering and Research and Investigation.
 
 ## About me
 
-In 2017, i graduated college @PUCP with a bachelors in Electronic Engineer.
-I worked at Hoschild Mining, Banco Falabella and currently working at IBM, 
+In 2017, i obtained my bachelors in Electronics Engineer <a href="https://www.pucp.edu.pe/en/carrera/ingenieria-electronica/" target="_blank">@PUCP</a>. I worked at Hoschild Mining, Banco Falabella and currently working at IBM, 
 with Bluetab Solutions. Paralelly, i work as laboratory assistant for the 
 microelectronics department at PUCP since 2018. Since 2021, i am enrolled in 
 the computer science master program at UTEC, expected to finish in 2022.
 I enjoy programming, data science, and music.
 
 ## Portfolio
-I worked on various projects ranging from data science, scripting and programming, web development and big data. You can see the full list here.
+
+I am currently working on various projects, mainly in the fields of programming and blogging, data science, big data and web development. You can access my portfolio [here](portfolio/index.md).
 
 
 ## Contact
