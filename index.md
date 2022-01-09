@@ -27,10 +27,11 @@ I am currently working on various projects, mainly in the fields of programming 
 You can always email me at ```jesus.salazar@pucp.pe```
 
 [\[Email\]](mailto:jesus.salazar@pucp.pe)
-[\[LinkedIn\]](https://www.linkedin.com/in/gabriel-salazar-sedano-955a2a17a/) 
+[\[LinkedIn\]](https://www.linkedin.com/in/gabrielsalazarsedano/) 
 [\[Discord\]](https://discordapp.com/users/831367878943047680/) 
 
 
 <!-- This is an outer link:
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 📝  -->
+
