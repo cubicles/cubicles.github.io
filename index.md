@@ -6,6 +6,7 @@
 [\[Portfolio\]](portfolio/index.md)
 [\[Github\]](https://github.com/cubicles)
 [\[Resume\]](/resume.pdf)
+[\[Blog\]](blog/index.md)
 <!-- [\[Links\]](/links.md) -->
 
 Welcome to my personal webpage! I'm Gabriel, CS grad student <a href="https://posgrado.utec.edu.pe/" target="_blank">@UTEC</a>. currently working as a Data Engineer @[bluetab](https://www.bluetab.net/en/). I am mainly interested in Data Science, Data Engineering and Research and Investigation.
