@@ -25,7 +25,7 @@ I am currently working on various projects, mainly in the fields of programming 
 
 
 ## Contact
-You can always email me at ```jesus.salazar@pucp.pe```
+You can always email me at ```jesus.salazar@pucp.edu.pe```
 
 [\[Email\]](mailto:jesus.salazar@pucp.edu.pe)
 [\[LinkedIn\]](https://www.linkedin.com/in/gabrielsalazarsedano/) 
