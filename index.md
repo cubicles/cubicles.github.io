@@ -13,8 +13,10 @@ Welcome to my personal webpage! I'm Gabriel, CS grad student <a href="https://po
 
 ## About me
 
-In 2017, i obtained my bachelors in Electronics Engineer <a href="https://www.pucp.edu.pe/en/carrera/ingenieria-electronica/" target="_blank">@PUCP</a>. I worked at Hoschild Mining, Banco Falabella and currently working at IBM, 
-with Bluetab Solutions. Paralelly, i work as laboratory assistant for the 
+In 2017, i obtained my bachelors in Electronics Engineer 
+<a href="https://www.pucp.edu.pe/en/carrera/ingenieria-electronica/" target="_blank">@PUCP</a>
+. I worked at Hoschild Mining, Banco Falabella and Bluetab. Nowadays, i work
+as a Data Engineer for Brain Food. Paralelly, i work as laboratory assistant for the 
 microelectronics department at PUCP since 2018. Since 2021, i am enrolled in 
 the computer science master program at UTEC, expected to finish in 2022.
 I enjoy programming, data science, and music.
