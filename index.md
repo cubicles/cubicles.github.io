@@ -10,8 +10,8 @@
 [\[Links\]](/links.md) 
 
 Welcome to my personal webpage! I'm Gabriel, CS grad student
-<a href="https://posgrado.utec.edu.pe/" target="_blank">@UTEC</a>
-. currently working as a Data Engineer @[bluetab](https://www.bluetab.net/en/)
+<a href="https://posgrado.utec.edu.pe/" target="_blank" > @UTEC</a>
+. currently working as a Data Engineer @[Brain Food](https://brainfood.cl/)
 . I am mainly interested in Data Science
 , Data Engineering and Research and Investigation.
 
@@ -20,8 +20,8 @@ Welcome to my personal webpage! I'm Gabriel, CS grad student
 In 2017, i obtained my bachelors in Electronics Engineer 
 <a href="https://www.pucp.edu.pe/en/carrera/ingenieria-electronica/" target="_blank">@PUCP</a>
 . I worked at Hoschild Mining, Banco Falabella and Bluetab. Nowadays, i work
-as a Data Engineer for Brain Food. Paralelly, i work as laboratory assistant
-for the microelectronics department at PUCP since 2018. Since 2021, i am 
+as a Data Engineer for Brain Food. Previously, i worked as laboratory assistant
+for the microelectronics department at PUCP since 2018. I am 
 enrolled in the computer science master program at UTEC, expected to finish
 in 2022. I enjoy programming, data science, and music.
 
