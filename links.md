@@ -5,6 +5,7 @@
 - [Jon Gjengset's YT channel](https://www.youtube.com/c/JonGjengset)
 - [MedallionStallion_ twitch](https://www.twitch.tv/medallionstallion_)
 - [arm architecture](https://armarchitecture.com.au/)
+- [plant-machete](https://www.dwbowen.com/plant-machete)
 
 Through time, curiosity arises and i need to document it somehow
 
