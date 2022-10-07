@@ -6,6 +6,7 @@
 - [MedallionStallion_ twitch](https://www.twitch.tv/medallionstallion_)
 - [arm architecture](https://armarchitecture.com.au/)
 - [plant-machete](https://www.dwbowen.com/plant-machete)
+- [Reflections on Trusting Trust](https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 
 Through time, curiosity arises and i need to document it somehow
 
