@@ -10,6 +10,7 @@
 - [Small Cult Following](https://smallcultfollowing.com/)
 - [betaveros's site](https://beta.vero.site/)
 - [FORTRAN IV Reference Page](https://www.math-cs.gordon.edu/courses/cs323/FORTRAN/fortran.html)
+- [Go by Example](https://gobyexample.com/hello-world)
 
 Through time, curiosity arises and i need to document it somehow
 
