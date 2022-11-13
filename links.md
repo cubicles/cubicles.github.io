@@ -2,6 +2,8 @@
 
 # Links
 
+Blogs, memos, sticky notes, interests
+
 - [Jon Gjengset's YT channel](https://www.youtube.com/c/JonGjengset)
 - [MedallionStallion_ twitch](https://www.twitch.tv/medallionstallion_)
 - [arm architecture](https://armarchitecture.com.au/)
@@ -11,8 +13,7 @@
 - [betaveros's site](https://beta.vero.site/)
 - [FORTRAN IV Reference Page](https://www.math-cs.gordon.edu/courses/cs323/FORTRAN/fortran.html)
 - [Go by Example](https://gobyexample.com/hello-world)
-
-Through time, curiosity arises and i need to document it somehow
+- [python unit testing](https://www.youtube.com/watch?v=6tNS--WetLI)
 
 ## Things i like
 
@@ -20,7 +21,7 @@ I enjoy music, videogames, basketball, sushi, cats, dogs, strawberrys and cream,
 tv series, tier lists, vim, the terminal, rust, python, some typed language,
 seamless integrations, warm clothes and my girlfriend
 
-## Series i enjoy
+## series / movies
 
 - [Unit 42](https://www.imdb.com/title/tt6136644)
 - [Sorjonen](https://www.imdb.com/title/tt4937942)
@@ -29,5 +30,6 @@ seamless integrations, warm clothes and my girlfriend
 - [Rojst](https://www.imdb.com/title/tt8855592)
 - [Ófærð](https://www.imdb.com/title/tt3561180)
 - [The Chestnut Man](https://www.imdb.com/title/tt10834220)
+- [The Rehearsal](https://www.imdb.com/title/tt10802170/)
 
 
