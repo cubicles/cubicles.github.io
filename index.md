@@ -33,9 +33,8 @@ You can access my portfolio [here](portfolio/index.md).
 
 
 ## Contact
-You can always email me at ```jesus.salazar@pucp.edu.pe```
+You can always email me at ```qbcles@proton.me```
 
-[\[Email\]](mailto:jesus.salazar@pucp.edu.pe)
 [\[LinkedIn\]](https://www.linkedin.com/in/gabrielsalazarsedano/) 
 [\[Discord\]](https://discordapp.com/users/831367878943047680/) 
 

@@ -14,6 +14,7 @@ Blogs, memos, sticky notes, interests
 - [FORTRAN IV Reference Page](https://www.math-cs.gordon.edu/courses/cs323/FORTRAN/fortran.html)
 - [Go by Example](https://gobyexample.com/hello-world)
 - [python unit testing](https://www.youtube.com/watch?v=6tNS--WetLI)
+- [matasano challenges](https://cryptopals.com/)
 
 ## Things i like
 
