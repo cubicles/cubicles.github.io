@@ -8,7 +8,7 @@
 [\[Blog\]](blog/index.md)
 [\[Links\]](/links.md) 
 
-<img src="assets/me.JPG" alt="me" width="250"/>
+<img src="assets/me.JPG" alt="me" width="200"/>
 
 Hi, my name is Gabriel, software engineer currently working as a consultant 
 for Brain Food 🧠 in Chile 🇨🇱 
