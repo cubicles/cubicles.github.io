@@ -11,7 +11,7 @@
 <img src="assets/me.JPG" alt="me" width="250"/>
 
 Hi, my name is Gabriel, software engineer currently working as a consultant 
-for Brain Food in Chile
+for Brain Food 🧠 in Chile 🇨🇱 
 
 I enjoy systems programming, electronics, japanese cuisine and vim
 
