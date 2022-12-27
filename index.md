@@ -8,9 +8,7 @@
 [\[Blog\]](blog/index.md)
 [\[Links\]](/links.md) 
 
-<!-- i need to resize an image in markdown -->
-
-![me](assets/me.JPG =x250)
+<img src="assets/me.JPG" alt="me" width="250"/>
 
 Hi, my name is Gabriel, software engineer currently working as a consultant 
 for Brain Food in Chile
