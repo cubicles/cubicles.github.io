@@ -26,4 +26,3 @@ You can always email me at ```qbcles@proton.me```
 <!-- This is an outer link:
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 📝  -->
-

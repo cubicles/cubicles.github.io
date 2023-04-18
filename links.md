@@ -1,8 +1,6 @@
 [\[Home\]](/index.md) 
 
-# Links
-
-Blogs, memos, sticky notes, interests
+# links
 
 - [Jon Gjengset's YT channel](https://www.youtube.com/c/JonGjengset)
 - [MedallionStallion_ twitch](https://www.twitch.tv/medallionstallion_)
@@ -15,14 +13,9 @@ Blogs, memos, sticky notes, interests
 - [Go by Example](https://gobyexample.com/hello-world)
 - [python unit testing](https://www.youtube.com/watch?v=6tNS--WetLI)
 - [matasano challenges](https://cryptopals.com/)
+- [xtrm prgrmmng flowchart](http://www.extremeprogramming.org/map/project.html)
 
-## Things i like
-
-I enjoy music, videogames, basketball, sushi, cats, dogs, strawberrys and cream,
-tv series, tier lists, vim, the terminal, rust, python, some typed language,
-seamless integrations, warm clothes and my girlfriend
-
-## series / movies
+## video
 
 - [Unit 42](https://www.imdb.com/title/tt6136644)
 - [Sorjonen](https://www.imdb.com/title/tt4937942)
@@ -33,4 +26,8 @@ seamless integrations, warm clothes and my girlfriend
 - [The Chestnut Man](https://www.imdb.com/title/tt10834220)
 - [The Rehearsal](https://www.imdb.com/title/tt10802170/)
 
+## really
+
+- i really really really like [this](https://www.youtube.com/watch?v=7eKv4BEujFU)
+image
 
