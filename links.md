@@ -14,6 +14,7 @@
 - [python unit testing](https://www.youtube.com/watch?v=6tNS--WetLI)
 - [matasano challenges](https://cryptopals.com/)
 - [xtrm prgrmmng flowchart](http://www.extremeprogramming.org/map/project.html)
+- [Gilbert Strang final lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8)
 
 ## video
 
