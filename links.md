@@ -15,6 +15,7 @@
 - [matasano challenges](https://cryptopals.com/)
 - [xtrm prgrmmng flowchart](http://www.extremeprogramming.org/map/project.html)
 - [Gilbert Strang final lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8)
+- [jupytext](https://github.com/mwouts/jupytext)
 
 ## video
 
