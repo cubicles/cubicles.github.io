@@ -1,0 +1,73 @@
+[\[Return to blog\]](index.md) [\[Home\]](../index.md)
+
+## Considering the following stack
+
+I've been mincing and mixing so many topics lately that the toll it takes due
+to its abstractness has really been bugging me from time to time. The wide
+variety of tools that the current market needs in software has 
+
+
+As part of the continuous improvement and enjoyment of one's learning
+road, i tend to search for references and archetypes in the current
+cs trends and advances. While im college (studying towards electronics),
+i looked up to pursue a masters in bio-engineering and focus on
+microelectronics, circuits and analog design, striving to keep on learning
+and focusing my job searching efforts to electronic-related positions.
+
+However, as time passes, i started shifting my curiosity towards cs-related
+content. Both as a way to keep expanding my knowledge in the same previous way
+i did for electronics and also to truly push to the core of key concepts and
+find enjoyment and that "that-actually-makes-sense" feeling of things.
+
+As 2022 unwraps, i decided to continue the data related path but not limiting
+myself to the strictly straighted arrow line of things. While finishing
+my second masters year, i want to mainly focus on the following three:
+
+### Data World
+
+Mainly data-engineering, science and analysis of data (50-30-20 if i had to put
+it in a percentual manner). Because the job and the thesis hover around data,
+i still think i have plenty to learn and to improve. Python became my mainly
+bread and butter and reading and scripting in SQL is very familiar. I took
+classes in R and overall used notebooks last semester.
+
+On the tooling side of things, i plan on using the cloud infamous trio (aws,
+gcp, azure) in order to develop some personal projects. I really dig the
+front end aspect of things and believe in the satisfaction of an extra 
+polished visual feedback so i will try to end all my pipelines in some
+web app using react or any frontend framework available.
+
+### Rust
+
+I enjoy this thing. Really, most everything around this topic is truly
+something. The way it unravels itself as a memory safe high speed language,
+the cargo system and its funny comparisons to C++ and Go. I got the
+opportuniy to get a copy of Jon Gjenset's "Rust for Rustaceans" and a copy of
+Nichols and Klabnik "The rust programming language" and i've been toying around
+the beginner topics for a while now. I've recently started ownership so, lets
+hope that goes well.
+
+### Cloud
+
+I can't say im a fan of backend software engineering but i'm not either
+strange myself. In the last masters project, i contributed mainly in the front
+side of things while keeping a mid approach to services development, MVCs, and
+continuous deployment. I mainly focus my web-development needs to markdown,
+html css some js related stuff and react, so a part of me thinks i should
+get a better understandment of backend before moving onto cloud. However,
+the versatility of some aws components and tha RANGE of applications it can
+cover appears really attractive. Not only i would not like myself to limit
+my choices to a certain stack (say MERN, MEAN, Django firebase yada yada) but
+to also explore the cloud components as pieces of the many possible pipelines
+(web dev, data related project, services, etc) to keep exploring the cs product
+cloud lifecycle and not be afraid to traverse towards the specific needed tool
+if the time arises.
+
+TLDR: I like my data and webdev projects to be in the cloud
+
+### Wrapping this thing up
+
+I closed my terminal by accident before saving all the previous stuff but vim
+saved my life, i encourage everyone out there to keep on learning and trying
+every new stuff that feels like putting a smile on your face whenever you can.
+See you next time!
