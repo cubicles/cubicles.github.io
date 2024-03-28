@@ -17,6 +17,7 @@
 - [Gilbert Strang final lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8)
 - [jupytext](https://github.com/mwouts/jupytext)
 - [verilator p1](https://www.itsembedded.com/dhd/verilator_1/)
+- [destroyallsoftware.com](https://destroyallsoftware.com/screencasts)
 
 ## video
 
