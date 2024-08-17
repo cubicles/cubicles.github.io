@@ -10,6 +10,8 @@
 
 <img src="assets/me.JPG" alt="me" width="200"/>
 
+IM BACK!
+
 Hi, my name is Gabriel, software engineer currently working as a consultant 
 for Brain Food 🧠 in Chile 🇨🇱 
 
