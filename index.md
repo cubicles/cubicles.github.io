@@ -10,16 +10,16 @@
 
 <img src="assets/me.JPG" alt="me" width="200"/>
 
-IM BACK!
+**updated aug 2024**
 
 Hi, my name is Gabriel, software engineer currently working as a consultant 
-for Brain Food 🧠 in Chile 🇨🇱 
+for [Brain Food 🧠](https://brainfood.cl/?/lang=en) in Chile 🇨🇱 
 
 I enjoy systems programming, electronics, japanese cuisine and vim
 
 
 ## Contact
-You can always email me at ```qbcles@proton.me```
+You can always email me at ```qbcls@proton.me```
 
 [\[LinkedIn\]](https://www.linkedin.com/in/gabrielsalazarsedano/) 
 [\[Discord\]](https://discordapp.com/users/831367878943047680/) 
