@@ -2,6 +2,8 @@
 
 # Blog 
 
+*09-10-24* &nbsp; [Be Water](09-10-24.md)
+
 *20-08-24* &nbsp; [Consider this](20-08-24.md)
 
 *05-02-22* &nbsp; [Plans for 2022: The learning journey continues](05-02-22.md)
