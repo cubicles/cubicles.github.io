@@ -10,13 +10,12 @@
 
 <img src="assets/me.JPG" alt="me" width="200"/>
 
-**updated aug 2024**
+**updated may 2025**
 
-Hi, my name is Gabriel, software engineer currently working as a consultant 
+Hi, my name is Gabriel, software engineer currently working as a Sr. Data Engineer
 for [Brain Food 🧠](https://brainfood.cl/?/lang=en) in Chile 🇨🇱 
 
-I enjoy systems programming, electronics, japanese cuisine and vim
-
+I enjoy solving problems, programming, electronics, seafood and vim
 
 ## Contact
 You can always email me at ```qbcls@proton.me```
