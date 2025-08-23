@@ -10,10 +10,9 @@
 
 <img src="assets/me.JPG" alt="me" width="200"/>
 
-**updated may 2025**
+**updated august 2025**
 
-Hi, my name is Gabriel, software engineer currently working as a Sr. Data Engineer
-for [Brain Food 🧠](https://brainfood.cl/?/lang=en) in Chile 🇨🇱 
+Hi, my name is Gabriel, Senior Data Engineer @ [Artefact](https://www.artefact.com/)
 
 I enjoy solving problems, programming, electronics, seafood and vim
 
