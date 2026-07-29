@@ -2,6 +2,7 @@
 
 # links
 
+- [Enter the Kettlebell](https://www.youtube.com/watch?v=cKx8xE8jJZs)
 - [adryd](https://adryd.com/)
 - [Jon Gjengset's YT channel](https://www.youtube.com/c/JonGjengset)
 - [MedallionStallion_ twitch](https://www.twitch.tv/medallionstallion_)
