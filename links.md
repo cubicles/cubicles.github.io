@@ -2,6 +2,7 @@
 
 # links
 
+- [devdocs](https://devdocs.io/)
 - [Enter the Kettlebell](https://www.youtube.com/watch?v=cKx8xE8jJZs)
 - [adryd](https://adryd.com/)
 - [Jon Gjengset's YT channel](https://www.youtube.com/c/JonGjengset)
