@@ -10,18 +10,14 @@
 
 <img src="assets/me.JPG" alt="me" width="200"/>
 
-**updated august 2025**
+**updated october 2026**
 
-Hi, my name is Gabriel, Senior Data Engineer @ [Artefact](https://www.artefact.com/)
+Hi, my name is Gabriel, Engineering Manager @ [Artefact](https://www.artefact.com/)
 
-I enjoy solving problems, programming, electronics, seafood and vim
+I enjoy reading, solving problems, programming, electronics, seafood and vim
 
 ## Contact
-You can always email me at ```qbcls@proton.me```
-
-[\[LinkedIn\]](https://www.linkedin.com/in/gabrielsalazarsedano/) 
-[\[Discord\]](https://discordapp.com/users/831367878943047680/) 
-
+email = ```jesus``` at ```meezertech``` dot ```com```
 
 <!-- This is an outer link:
 <a href="http://example.com/" target="_blank">Hello, world!</a>
