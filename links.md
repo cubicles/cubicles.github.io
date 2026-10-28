@@ -2,6 +2,7 @@
 
 # links
 
+- [I am often wrong](https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html)
 - [devdocs](https://devdocs.io/)
 - [Enter the Kettlebell](https://www.youtube.com/watch?v=cKx8xE8jJZs)
 - [adryd](https://adryd.com/)
